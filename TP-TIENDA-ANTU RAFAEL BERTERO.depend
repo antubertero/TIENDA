@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1692639005 source:e:\programacion\utn\1 a—o\programacion y laboratorio 2\tp\tp-tienda-antu rafael bertero\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
